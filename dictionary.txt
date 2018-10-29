@@ -1,29 +1,4 @@
-DANΘWA DANETISKA
-abgdezhθijklmnoprstuwyφx
-
-NO AORIST!
-
-If the last syllable is long, then the stress fals on it.
-Else, if the penultimate syllable is long, then the stress falls on it.
-Else, the stress fals on the antepenultimate syllable.
-
-DJUS
-TER-man
-an-TI-ter-man
-
-ALSO:
-We will have the same reduction as in spanish;
-ai > aj
-ia > ja
-and whatever
-More specifically:
-We have the weak vowels i and u, and the strong vowels a, e, and o.
-Whenever there is an unaccented weak vowel next to a strong vowel, it becomes its corresponding semivowel.
-
-per (pp): (ins) for the purpose of, so that
-per (pp): (acc) because of, due to, why (with pronoun)
-per (pp): (gen) concerning, about
-per (pp): (dat) through
+per (pp): (ins) for the purpose of, so that; (acc) because of, due to, why (with pronoun); (gen) concerning, about; (dat) through
 mok (c): if
 pamok (c): as if
 pamok (pp): (gen) like (comparison)
@@ -33,160 +8,66 @@ peroj (adv): forever, always
 nū (adv): now
 njos (pn): nothing (declined like jos)
 a (c): but, and
-somi (c): even if, same if
+sami (c): even if, same if
 semjos (pn): each (singular), all (plural)
 uper (pp): (loc) over
 upo (pp): under (takes locative)
-en (pp): inside, in (takes locative)
-en (pp): (gen) on
-ud (pp): outside (takes locative)
-ud (pp): out from, from (takes ablative)
-meθi (pp): between (with locative)
-epi (pp): (gen) after
-epi (pp): (dat) moving towards
-epi (pp): (ins) near
-epi (pp): (loc) at
-pro (pp): (acc) facing, in the direction of
-pro (pp): (gen): standing before, in front of
+en (pp): (loc) inside, in; (gen) on
+ud (pp): (loc) outside of; (abl) out from, from
+epi (pp): (gen) after; (dat) moving towards; (ins) near; (loc) at
+pro (pp): (acc) facing, in the direction of; (gen) standing before, in front of
 pro (adv): foward
-witer (pp): (with abl) according to
-witer (pp): (with ins) in agreement with
+witer (pp): (abl) according to; (ins) in agreement with
 nes (pp): (gen) without
 ans (pp): (abl) away from (location)
 ne (adv): not
-anti (pp): (acc) opposite to, opposed to
-anti (pp): (gen) before
-anti (pp): (loc) against (rays of the sun against my skin)
-anti (pp): (dat) facing backards, in the direction of backwards
-anti (pp): (abl) instead of, in place of
+anti (pp): (acc) opposite to, opposed to; (gen) before; (loc) against (rays of the sun against my skin); (dat) facing backards, in the direction of backwards; (abl) instead of, in place of
 posme (adv): when
-posme (c): when
 tosme (adv): then, at that time
 pewiter (c): therefore
 pim (adv): how many, how much, as much as
-pim (adv): how many, how much, as much as, this much
-tim (adv): that many, that much
+tim (adv): that many, that much, this much
 pone (adv): how, in what manner, in what way?
 tone (adv): like that, in that way, in that manner, in this way, like this, in this manner
 amφi (pp): (ins) around
 po (adv): where?
 to (adv): here
 tospek (int): behold
-meθi (pp): (gen) during
-meθi (pp): (loc) between
-(insert word here): than, instead of, rather than
-
+meθi (pp): (gen) during; (loc) between
 meos (pn): first person possessive
 tuos (pn): second person possessive
 suos (pn): third person possessive
-
-Instrumental used for:
-by what means
-with what instrument
-accompanied by what, or by whom
-near what, alongside what
-as the subject in a passive sentence
-
-Ablative used for:
-ablative of comparison (this is greater than that)
-
-Genitive used for:
-Topic
-We are speaking *about this*
-I heard *of a man*
-Time, indicating "during"
-during day, during night, during the 27th of december,
-(but you say "in the year")
-of yesterday, of night, of tomorrow
-
-Dative used for:
-Indirect Object
-Until (time): from sunrise to sunset
-
-tweros: north
-ugos: south
-φuros: east
-tamos: west
-
-Tweros: God of the North Wind
-
-
-
-Subjunctive future can be used to say "would" (as a conditional)
-
-each case has a default preposition:
-nominative:
-accusative:
-genitive:
-ablative: ud
-dative:
-locative: en
-instrumental: sem
-
-
-dīn: day
-sodīn: today
-θjes: yesterday
-sawsa: tomorrow
-antiθjes: day before yesterday
-episawsa: day after tomorrow
-φerdīn: midday (literally: high day)
-φernoptis: midnight (literally: high night)
-
-
+tweros (m): north
+ugos (m): south
+φuros (m): east
+tamos (m): west
+dīn (m): day
+sodīn (m): today
+θjos (m): yesterday
+sawsa (f): tomorrow
+antiθjos (m): day before yesterday
+episawsa (f): day after tomorrow
+φerdīn (m): midday (literally: high day)
+φernoptis (f): midnight (literally: high night)
 monoxos (pn): many
 mejos (pn): few, some
-*You use these with the same rules as numbers
-
-to express "some" in quantity, use the plural of ojnos
-
-
-poti (adv): how many?
-
--etis: from verb to noun
--īa: from adj to noun
-
-
-If we have something like this:
-I bought Jojo, a blue dog.
-Then Jojo is accusative, but so is "a blue dog".
-
-
-in ordinals, only the last compotnent is ordinal. like in russian. for example:
-2018: twenty of hundreds eighteenth
-
-For interjections, just make it:
-happiness!
-sadness!
-cry!
-pleasure! (for please and thank)
-
-Perhaps have a river named Daneta
-and the people will be called Danetians
-
-Use Russell dots as punctuation.
-. is period
-: is comma
-three dots indicates any further division
-Use them logically, they also function as brackets
-
-DANETISKA
+poti (adv): how many
 abbasto (v): to walk along, to follow
 abbomo (v): to affirm
-abōl (m): fruit
+abōl (m): fruit, apple
 abolφeros (adj): fruit-bearing, pomiferous
 aggerφo (v): to write, to inscribe
 addenomi (v): to appear
 addīksomi (v): to point at
 adīēr (m): traveller
 adīo (v): to travel
-ado (v): to lead
+ado (v): to lead, to drive, to guide
 adros (m): field
 adūkomi (v): to confess, to admit
 ajatos (adj): metallic
 ajgīa (f): sickness, illness
 ajgos (adj): sick, ill
-ajos (n): metal
+ajos (n): metal, copper, bronze
 ajtomi (v): to possess, to own, to have
 ajtos (n): spear, pike
 ajttos (adj): possession, property
@@ -203,7 +84,7 @@ alφos (adj): white
 ammōn (m): stone
 ammonatos (adj): stony, hard
 amφatos (adj): slithering
-amφis (f): snake
+amφis (m): snake
 amφros (m): rain
 an (n): air
 anatis (f): duck
@@ -401,9 +282,9 @@ epipertus (adj): close, near
 epiteletos (adj): closed
 epitelo (v): to close
 ēr (m): goat
-esan (n): blood
+esan (n): flowing blood, live blood
 ettis (f): food
-etwos (m): horse
+etwos (m): horse, stallion
 θalomi (v): to blossom
 θāns (f): goose
 θaφīomi (v): to perish, to die
@@ -486,6 +367,7 @@ kotus (m): fight
 kremom (n): onion
 kretos (adj): intelligent, insightful, clever
 krīomi (v): to separate
+kruan (n): dead blood, raw blood
 krūos (adj): raw
 lāks (m): salmon
 lamφros (adj): lightweight
@@ -568,7 +450,7 @@ naspekjentos (adj): unseen, invisible
 nawis (f): boat, ship
 neθetos (adj): unfinished, undone, not finished, not done
 nejados (adj): not holy, cursed
-nemos (n): sacrifice
+nemos (n): sacrifice, worship, sacred place, place of worship
 nepōtis (f): granddaughter
 nepōtus (m): grandson
 nēr (m): power, force, vital energy
@@ -596,6 +478,7 @@ omban (n): butter, fat
 ombanatos (adj): buttery, greasy, oily, fatty
 ombetos (adj): annointed
 ombo (v): to anoint
+omos (n): back, espalda, shoulder
 omos (adj): bitter
 onkatos (adj): bent, not straight
 onkos (m): bend, turn
@@ -955,437 +838,91 @@ xreman (n): herb, plant
 xreo (v): to grow (of plants)
 xostiskos (adj): foreign
 xostus (m): stranger
-
-
-
-galōs: brother's wife
-jenatra: broinlaw's wife
-
-omesos: shoulder
-armis: arm
-dūsu: forearm
-menu: hand
-onoxos: nail
-awθār: udder
-pertu: rib
-pogu: lap
-pesu: penis
-orθom: testicle
-orsu: arse
-kroska: leg
-kenku: knee kap
-pesna: heel
-
-nau: corpse
-netros: dead person, dead
-pelis: skin
-ostom: bone
-mosgos: brain
-φeleθa: gland
-rūsman: throat
-asplenθa: spleen
-lenθa: kidney
-
-θerna: bowels
-otēr: intestine
-
-
-
-
-tadomi: hate
-dūsomi: taste
-θersa: horror
-xūros: fear
-swepomi: sleep
-agos: fault, sin
-ajmos: copy, image
-ajwa: vital force
-menos: mind
-
-
-telpa: space
-lūkos: light
-perka: lightning, strike
-
-
-jēr: year
-wetos: year
-wesan: spring
-semār: summer
-osan: autumn
-θīna: winter
-
-
-teweros: northwind
-gradis: hail
-jedom: ice
-asnūθos: mist
-tonār: thunder
-
-ajtis: part
-solos: whole
-bera: mount
-lenθa: steppe
-latu: swamp
-aθeros: ocean
-apos: river
-pojnos: foam
-
-
-embis: fire
-parsu: dust
-θerxan: thorn
-θastom: stick
-betu: resin
-osdos: branch
-kela: glue
-
-ajtu: oak
-apsa: aspen
-aran: nut
-φagom: beech
-φeredom: birch
-θelna: pine
-talan: reed
-termus: cherry
-klena: maple
-kojna: grass
-koslos: hazel
-kremom: onion
-morom: blackberru
-ogu: berry
-olom: alder
-rapa: turnip
-winθom: elm
-
-morwis: ant
-φīa: bee
-wopsa: wasp
-mua: fly
-lua: louse
-parmis: grub
-
-pistis: fish
-laksos: salmon
-ambis: eel
-tona: shell
-
-torom: krow
-woran: raven
-trosdos: thrush
-anetis: duck
-tetēr: grouse
-asperφa: sparrow
-gēr: crane
-nisdos: nest
-
-enθis: hedgehog
-eperos: boar
-xelu: tortoise
-lūks: lynks
-netār: snake
-ūr: squirrel
-wāl: fox
-twōn: dog
-abos: lamb
-
-ūjom: egg
-meθu: mead
-glagis: milk
-selpos: butter
-ternos: horn
-kār: wax
-rūman: cream
-
-pelis: flour
-φaris: spelt
-pūr: wheat
-ruxjos: rye
-xesθa: barley
-awida: oat
-φaφa: bean
-tikēr: pea
-adis: cereal
-
-ajtu: spear, spike
-bakos: staff
-beru: millstone
-kega: hook
-māk: pouch
-nawis: ship
-askāp: tool
-jugom: yoke
-
-ankos: angle
-φerθom: fort
-φru: bridge
-xrenθa: beam
-kantis: corner
-penta: road
-treba: dwelling
-lūθis: people
-jewis: law
-petu: wealth, cattle
-misθos: fee
-wesnos: price
-tatom: battle
-korom: war
-wīk: victory
-belos: power, strength
-
-
-abōl, ables (m): apple
-adona (v): to drive, to guide, to lead
-adros, adrosjo (m): field, pasturage
-ajos, ajesos (n): a metal, copper, bronze
-alona (v): to nourish, to feed
-ammōn, ammones (m): stone
-amφis, amφīs (m): snake
-anats, anates (f): duck
-anemos, anemosjo (m): breath
-anesa (v): to breathe
-annos, annosjo (f): lamb
-antjos, antjosjo (m): forehead, front
-apa, apas (f): water, rain
-arjona (v): to plough
-arotrom, arotrosjo (n): plough, ard
-artos, artosjo (m): bear
-awos, awosjo (m): grandfather
-awsōs, awsoses (f): dawn
-axos, axesos (n): emotional distress, fear
-
-bastona (v): to walk
-bena, benas (f): woman
-bentis, bentīs (f): step, the act of walking
-beru, brūs (n): spear
-bīwona (v): to live, to be alive
-blūsa (v): to say
-bus, bowes (f): cattle
-
-dajawēr, dajawres (m): brother-in-law
-danθwa, danθwas (f): tongue
-danostona (v): to recognize, conocer, to be acquainted with
-danu, dānūs (n): river
-daranom, daranosjo (n): grain
-deneman, danemens (n): offspring, seed
-denetis, denetīs (f): birth, production
-denetōr, denetres (m): one who begets, produces, parent
-denos, denesos (n): race, lineage
-denus, danwes (f): jaw, cheek, chin
-detos, detesos (n): that which is proper
-dītsata, dītsants, dītata, ditonts (v): to point out, to say
-djus, diwes (m): sky, heaven
-dōm, demes (m): house
-domφos, domφosjo (m): tooth, row of teeth, peg
-donom, donosjo (n): gift
-donos, donosjo (m): birth, offspring
-donts, dantes (m): tooth
-donu, nūs (n): knee
-doru, drūs (n): tree, wood
-dosa (v): to give
-dotis, dotīs (f): the act of giving
-dotōr, dotres (m): giver
-dūstus, dustwes (m): taste
-
-edata, adonts (v): to eat
-esan, sans (n): flowing blood
-esata, sonts, φūata, φwonts (v): to be
-etwos, etwosjo (m): stallion, horse
-
-θans, θanses (f): goose
-θeθōm, mes (m): earth
-θeman, θemens (n): that which is established, house, home
-θēr, θres (m): hedgehog
-θes, θeses (m): god, godhead, deity, sacred place
-θesa (v): to put, place, to do
-θetis, θetīs (f): the act of putting, placement
-θīōm, θimes (f): winter
-θomos, θomosjo (m): that which is put, placed
-θortos, θortosjo (m): enclosure
-θugatēr, θugatres (f): daughter
-θūmata, θuxonts (v): to be productive
-θūmos, θūmosjo (m): smoke
-θwōr, θwores (m): door
-
-īata, jonts, linepata, limponts (v): to go
-
-jepan, ipens (n): liver
-jeφona (v): to fuck, to copulate
-jūanta, jūantas (f): youth
-jugom, jugosjo (n): yoke
-jūgos, jūgesos (n): team, pair of yoked animals
-jugata, jugonts, junegata, jungonts (v): to bring together, to join
-
-kapjona (v): to grasp, to understand, to comprehend
-kapros, kaprosjo (m): he-goat, billy goat
-klūata, talwonts, talnūata, klawonts (v): to listen, to hear
-klūnis, klūnīs (f): buttocks, hips
-klūos, klūesos (n): fame
-kotus, kotwes (m): fight
-krūan, krūns (n): dead blood
-
-leksona (v): to protect
-lexjona (v): to lie down (intransitive)
-līθata, liθonts (v): to lick
-līmōn, līmones (m): lake
-linesa (v): to smear
-līsa, līsas (f): following, track, furrow
-lokus, alkwes (m): lake
-
-matēr, matres (f): mother
-melit, blites (n): honey
-menos, menesos (n): mind, thought
-mēns, menses (f): moon
-mēns, menses (n): meat
-mentis, mentīs (f): thought
-mertis, mertīs (f): death
-mīθona (v): to urinate
-mōn, mones (m): earthling
-mor, bres (n): sea
-mosxos, mosxosjo (m): marrow, brain
-mūs, muses (f): mouse
-
-nemos, nemesos (n): sacrifice, worship, place of sacrifice, cleaning
-nepōts, antes (m): grandson, descendant
-nēr, neres (m): power, force, vital energy
-neφos, neφesos (n): cloud, mist, moisture
-neφros, neφrosjo (m): kidney
-nisdos, nisdosjo (m): nest
-noman, nemans (n): name
-nesa, danents (v): to meet
-nots, noptes (f): night
-noφilos, noφilosjo (f): navel
-nūasa (v): to renew
-nūman, numens (n): breath
-nūotats, nūotates (f): newness
-nus, nawes (f): ship, boat
-
-oju, jūs (n): lifetime, long age, eon, saeculum, siglo, century, aeon, period of time, era
-omban, ombens (n): fat, butter
-onkos, onkosjo (m): bend, turn
-onos, onesos (n): load, burden
-orōn, orones (m): eagle
-orφos, orφosjo (m): orphan, slave, worker, servant
-ōs, ōses (n): mouth
-osdos, osdosjo (m): branch
-ost, astes (n): bone
-otris, otrīs (f): top, protrusion, sharp edge, corner
-owis, owīs (f): sheep
-
-parstona (v): to ask, to question
-patēr, patres (m): father
-pawan, pawens (n): bonfire
-peplos, peplosjo (m): wheel, circle
-pertus, partwes (m): crossing
-petan, tans (n): wing, feather
-petu, petūs (n): livestock
-pipona (v): to drink
-pisda, pisdas (f): vulva
-pletos, pletesos (n): breadth
-plūmōn, plūmones (m): lung
-pona (v): to cook
-pontōm, pantes (m): path, way
-portos, portosjo (m): piglet
-pōts, pedes (m): foot
-prinasa (v): to buy
-
-rats, warades (f): root
-rebesjona (v): to be getting dark
-rebos, rebesos (n): darkness
-redona (v): to govern, to rule
-rēts, redes (m): king, ruler
-rodīona (v): to straighten, to cause to be straight, to make straight
-ruθesa (v): to be red
-rūpata, ruponts, runepata, rumponts (v): to break
-
-sagjona (v): to give a sign, to signal
-sgēn, sgenes (m): breast, teat
-seman, semens (n): seed
-sisdona (v): to sit down
-skīdata, skidonts, skinedata, skindonts (v): to cut, to cut off
-snasa, sanonts (v): to swim
-snasa, stanonts (v): to stand up
-snīφos, snīφosjo (m): snow
-snūan, sanūens (n): sinew, tendon
-snusos, snusosjo (f): daughter-in-law
-sodīona (v): to set, to cause to sit, to seat, to place, to put
-sotan, stens (n): dung, excrement
-sowan, sawens (n): sun
-spekjona (v): to look at, to regard
-spēs, spes (f): prosperity, success
-spets, stes (m): watcher, spy
-staman, stamens (n): that which stands, also stature
-statis, statīs (f): standing, position
-stēr, stres (m): star
-stīxona (v): to climb, to walk
-stroφjona (v): to sip, to suck
-swennos, swennosjo (m): sleep, slumber
-swesōr, swesores (f): sister
-sweturos, sweturosjo (m): father-in-law
-
-tawros, tawrosjo (m): wild bull, aurochs
-telata, talonts, talnata, talnonts (v): to lift, raise
-telona (v): to hide, cover
-tenos, tenesos (n): extension
-tentis, tentīs (f): extension
-tepos, tepesos (n): heat, warmth
-tēr, tardes (n): heart
-terman, tarmens (n): boundary, end
-tīsa, jonts (v): to settle, to populate, to dwell, to cultivate, to habitate, to reside
-tonīona (v): to extend, to stretch
-tonos, tonosjo (m): something stretched, chord, string, fiber
-torsīona (v): to cause to dry, to make dry
-tūsjona (v): to be sharp-eared, to hear well, to eavesdrop, to spy
-tūta, tūtas (f): people, tribe
-twōn, twones (m): dog
-
-ūjom, ūjosjo (n): egg
-uksēn, uksenes (m): bull
-
-walena, walenas (f): wool
-walpos, walposjo (m): wolf
-wardjona (v): to work
-weθona (v): to transport, llevar
-werdom, werdosjo (n): work
-werθom, werθosjo (n): word
-werjona (v): to say
-wesa (v): to blow (of wind)
-wesgeros, wesgerosjo (m): evening
-westis, westīs (f): the act of dressing, clothing
-wetos, wetesos (n): year, season
-wiθūa, wiθūas (f): widow
-wīman, ūjmens (n): that which is twisted, plaiting
-wīnom, wīnosjo (n): wine
-wiros, wirosjo (m): man
-wītis, wītīs (f): that which twines or bends, branch, switch
-wīts, wites (m): village, household
-wītsona, wītsonts, wewītsona, wewītsonts (v): to want to see
-wīttōr, wīttres (m): one who has seen, knows
-wodan, wedans (n): water
-wōps, wopes (f): voice, speech
-wortīona (v): to turn (transitive)
-wosan, wesans (n): spring (the season)
-wosīona (v): to clothe (transitive)
-
-φados, φadosjo (f): beech
-φarθa, φarθas (f): beart
-φeθjona (v): to ask for, to request, pedir
-φenata, namponts (v): to kill, to strike down, to slay
-φentis, φentīs (f): striking, killing
-φerona (v): to carry
-φeros, φeresos (n): heat, warm weather
-φertis, φertīs (f): the act of carrying, bearing
-φīdata, φidonts, φinedata, φindonts (v): to split
-φīθona (v): to trust
-φorīona (v): to heat
-φratēr, φratres (m): brother
-φrūan, φarūens (n): well, spring, source
-φuga, φugas (f): escape, flight
-φudos, φudosjo (m): buck, he-goat
-φūθīona (v): to awake, to arouse, to make aware
-φūθona (v): to be awake, aware
-φujona (v): to grow, to appear
-φummēn, φummenes (m): bottom
-
-xajdos, xajdosjo (m): young goat, kid
-
+armis (f): arm
+menu (n): palm of the hand
+awθār (f): udder
+pogu (n): lap
+orθom (n): testicle
+orsu (n): arse, ass, butt, anus
+pesna (f): heel
+netros (m): corpse
+rūsman (n): throat
+θerna (f): bowels
+otēr (m): intestine
+dūsomi (v): to taste
+θersa (f): horror
+xūros (m): fear
+agos (n): fault, sin
+ajmos (n): copy, image
+ajwa (f): vital force
+menos (n): mind
+kroska (f): leg
+galōs (m): brother's wife, sister's husband
+jenatrōs (m): brother-in-law's wife, sister-in-law's husband
+telpa (f): space, expanse
+osan (n): autumn
+teweros (m): north wind, northwind
+gradis (f): hail
+tonār (m): thunder
+ajtis (f): part
+solos (adj): whole, in totality
+bera (f): mount
+lenθa (f): steppe
+aθeros (m): ocean
+θerxan (n): thorn
+θastom (n): stick
+betu (n): resin
+ajtu (n): oak
+apsa (f): aspen
+φeredom (n): birch
+θelna (f): pine
+talan (n): reed
+termus (m): cherry
+kojna (f): grass
+koslos (n): hazel
+morom (n): blackberru
+ogu (n): berry
+olom (n): alder
+morwis (f): ant
+wopsa (f): wasp
+mua (f): fly
+lua (f): louse
+parmis (f): grub
+ambis (f): eel
+torom (n): crow
+trosdos (m): thrush
+tetēr (m): grouse
+eperos (m): boar
+xelu (n): tortoise
+lūks (m): lynx
+ūr (f): squirrel
+wāl (m): fox
+meθu (n): mead
+kār (f): wax
+rūman (n): cream
+φaris (f): spelt
+pūr (f): wheat
+ruxjos (m): rye
+awida (f): oat
+tikēr (f): pea
+adis (f): cereal
+beru (n): millstone
+φerθom (n): fort
+φru (n): bridge
+lūθis (f): people
+jewis (f): law
+petu (n): wealth
+misθos (m): fee
+wesnos (m): price
+korom (n): war
+wīk (f): victory
+arjo (v): to plough
+bentis (f): step, the act of walking
+deneman (n): offspring, seed, descendants
+denetis (f): birth, production
+denetōr (m): one who begets, produces, parent
+dotis (f): the act of giving
+dotōr (m): giver
+klūos (n): fame
+nūomi (v): to renew
+nesomi (v): to meet

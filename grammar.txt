@@ -1,0 +1,168 @@
+NO AORIST!
+
+If the last syllable is long, then the stress fals on it.
+Else, if the penultimate syllable is long, then the stress falls on it.
+Else, the stress fals on the antepenultimate syllable.
+
+DJUS
+TER-man
+an-TI-ter-man
+
+ALSO:
+We will have the same reduction as in spanish;
+ai > aj
+ia > ja
+and whatever
+More specifically:
+We have the weak vowels i and u, and the strong vowels a, e, and o.
+Whenever there is an unaccented weak vowel next to a strong vowel, it becomes its corresponding semivowel.
+
+per (pp): (ins) for the purpose of, so that
+per (pp): (acc) because of, due to, why (with pronoun)
+per (pp): (gen) concerning, about
+per (pp): (dat) through
+mok (c): if
+pamok (c): as if
+pamok (pp): (gen) like (comparison)
+pem (c): as, while, since, because, for, subordinating conjunction
+aws (adv): tomorrow
+peroj (adv): forever, always
+nū (adv): now
+njos (pn): nothing (declined like jos)
+a (c): but, and
+sami (c): even if, same if
+semjos (pn): each (singular), all (plural)
+uper (pp): (loc) over
+upo (pp): under (takes locative)
+en (pp): inside, in (takes locative)
+en (pp): (gen) on
+ud (pp): outside (takes locative)
+ud (pp): out from, from (takes ablative)
+meθi (pp): between (with locative)
+epi (pp): (gen) after
+epi (pp): (dat) moving towards
+epi (pp): (ins) near
+epi (pp): (loc) at
+pro (pp): (acc) facing, in the direction of
+pro (pp): (gen): standing before, in front of
+pro (adv): foward
+witer (pp): (with abl) according to
+witer (pp): (with ins) in agreement with
+nes (pp): (gen) without
+ans (pp): (abl) away from (location)
+ne (adv): not
+anti (pp): (acc) opposite to, opposed to
+anti (pp): (gen) before
+anti (pp): (loc) against (rays of the sun against my skin)
+anti (pp): (dat) facing backards, in the direction of backwards
+anti (pp): (abl) instead of, in place of
+posme (adv): when
+posme (c): when
+tosme (adv): then, at that time
+pewiter (c): therefore
+pim (adv): how many, how much, as much as
+pim (adv): how many, how much, as much as, this much
+tim (adv): that many, that much
+pone (adv): how, in what manner, in what way?
+tone (adv): like that, in that way, in that manner, in this way, like this, in this manner
+amφi (pp): (ins) around
+po (adv): where?
+to (adv): here
+tospek (int): behold
+meθi (pp): (gen) during
+meθi (pp): (loc) between
+(insert word here): than, instead of, rather than
+
+meos (pn): first person possessive
+tuos (pn): second person possessive
+suos (pn): third person possessive
+
+Instrumental used for:
+by what means
+with what instrument
+accompanied by what, or by whom
+near what, alongside what
+as the subject in a passive sentence
+
+Ablative used for:
+ablative of comparison (this is greater than that)
+
+Genitive used for:
+Topic
+We are speaking *about this*
+I heard *of a man*
+Time, indicating "during"
+during day, during night, during the 27th of december,
+(but you say "in the year")
+of yesterday, of night, of tomorrow
+
+Dative used for:
+Indirect Object
+Until (time): from sunrise to sunset
+
+tweros: north
+ugos: south
+φuros: east
+tamos: west
+
+Tweros: God of the North Wind
+
+
+
+Subjunctive future can be used to say "would" (as a conditional)
+
+each case has a default preposition:
+nominative:
+accusative:
+genitive:
+ablative: ud
+dative:
+locative: en
+instrumental: sem
+
+
+dīn: day
+sodīn: today
+θjes: yesterday
+sawsa: tomorrow
+antiθjes: day before yesterday
+episawsa: day after tomorrow
+φerdīn: midday (literally: high day)
+φernoptis: midnight (literally: high night)
+
+
+monoxos (pn): many
+mejos (pn): few, some
+*You use these with the same rules as numbers
+
+to express "some" in quantity, use the plural of ojnos
+
+
+poti (adv): how many?
+
+-etis: from verb to noun
+-īa: from adj to noun
+
+
+If we have something like this:
+I bought Jojo, a blue dog.
+Then Jojo is accusative, but so is "a blue dog".
+
+
+in ordinals, only the last compotnent is ordinal. like in russian. for example:
+2018: twenty of hundreds eighteenth
+
+For interjections, just make it:
+happiness!
+sadness!
+cry!
+pleasure! (for please and thank)
+
+Perhaps have a river named Daneta
+and the people will be called Danetians
+
+Use Russell dots as punctuation.
+. is period
+: is comma
+three dots indicates any further division
+Use them logically, they also function as brackets
