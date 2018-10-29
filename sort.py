@@ -1,5 +1,6 @@
 alphabet = "абгдеѳийклмнопрстуўфх"
 macron = "\u0304"
+types = ["m", "f", "n", "v", "adj", "pn", "pp", "adv", "c", "num"]
 
 def letter_ordinal(letter):
     n = len(alphabet)
