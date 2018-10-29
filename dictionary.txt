@@ -1,0 +1,1391 @@
+DANΘWA DANETISKA
+abgdezhθijklmnoprstuwyφx
+
+NO AORIST!
+
+If the last syllable is long, then the stress fals on it.
+Else, if the penultimate syllable is long, then the stress falls on it.
+Else, the stress fals on the antepenultimate syllable.
+
+DJUS
+TER-man
+an-TI-ter-man
+
+ALSO:
+We will have the same reduction as in spanish;
+ai > aj
+ia > ja
+and whatever
+More specifically:
+We have the weak vowels i and u, and the strong vowels a, e, and o.
+Whenever there is an unaccented weak vowel next to a strong vowel, it becomes its corresponding semivowel.
+
+per (pp): (ins) for the purpose of, so that
+per (pp): (acc) because of, due to, why (with pronoun)
+per (pp): (gen) concerning, about
+per (pp): (dat) through
+mok (c): if
+pamok (c): as if
+pamok (pp): (gen) like (comparison)
+pem (c): as, while, since, because, for, subordinating conjunction
+aws (adv): tomorrow
+peroj (adv): forever, always
+nū (adv): now
+njos (pn): nothing (declined like jos)
+a (c): but, and
+somi (c): even if, same if
+semjos (pn): each (singular), all (plural)
+uper (pp): (loc) over
+upo (pp): under (takes locative)
+en (pp): inside, in (takes locative)
+en (pp): (gen) on
+ud (pp): outside (takes locative)
+ud (pp): out from, from (takes ablative)
+meθi (pp): between (with locative)
+epi (pp): (gen) after
+epi (pp): (dat) moving towards
+epi (pp): (ins) near
+epi (pp): (loc) at
+pro (pp): (acc) facing, in the direction of
+pro (pp): (gen): standing before, in front of
+pro (adv): foward
+witer (pp): (with abl) according to
+witer (pp): (with ins) in agreement with
+nes (pp): (gen) without
+ans (pp): (abl) away from (location)
+ne (adv): not
+anti (pp): (acc) opposite to, opposed to
+anti (pp): (gen) before
+anti (pp): (loc) against (rays of the sun against my skin)
+anti (pp): (dat) facing backards, in the direction of backwards
+anti (pp): (abl) instead of, in place of
+posme (adv): when
+posme (c): when
+tosme (adv): then, at that time
+pewiter (c): therefore
+pim (adv): how many, how much, as much as
+pim (adv): how many, how much, as much as, this much
+tim (adv): that many, that much
+pone (adv): how, in what manner, in what way?
+tone (adv): like that, in that way, in that manner, in this way, like this, in this manner
+amφi (pp): (ins) around
+po (adv): where?
+to (adv): here
+tospek (int): behold
+meθi (pp): (gen) during
+meθi (pp): (loc) between
+(insert word here): than, instead of, rather than
+
+meos (pn): first person possessive
+tuos (pn): second person possessive
+suos (pn): third person possessive
+
+Instrumental used for:
+by what means
+with what instrument
+accompanied by what, or by whom
+near what, alongside what
+as the subject in a passive sentence
+
+Ablative used for:
+ablative of comparison (this is greater than that)
+
+Genitive used for:
+Topic
+We are speaking *about this*
+I heard *of a man*
+Time, indicating "during"
+during day, during night, during the 27th of december,
+(but you say "in the year")
+of yesterday, of night, of tomorrow
+
+Dative used for:
+Indirect Object
+Until (time): from sunrise to sunset
+
+tweros: north
+ugos: south
+φuros: east
+tamos: west
+
+Tweros: God of the North Wind
+
+
+
+Subjunctive future can be used to say "would" (as a conditional)
+
+each case has a default preposition:
+nominative:
+accusative:
+genitive:
+ablative: ud
+dative:
+locative: en
+instrumental: sem
+
+
+dīn: day
+sodīn: today
+θjes: yesterday
+sawsa: tomorrow
+antiθjes: day before yesterday
+episawsa: day after tomorrow
+φerdīn: midday (literally: high day)
+φernoptis: midnight (literally: high night)
+
+
+monoxos (pn): many
+mejos (pn): few, some
+*You use these with the same rules as numbers
+
+to express "some" in quantity, use the plural of ojnos
+
+
+poti (adv): how many?
+
+-etis: from verb to noun
+-īa: from adj to noun
+
+
+If we have something like this:
+I bought Jojo, a blue dog.
+Then Jojo is accusative, but so is "a blue dog".
+
+
+in ordinals, only the last compotnent is ordinal. like in russian. for example:
+2018: twenty of hundreds eighteenth
+
+For interjections, just make it:
+happiness!
+sadness!
+cry!
+pleasure! (for please and thank)
+
+Perhaps have a river named Daneta
+and the people will be called Danetians
+
+Use Russell dots as punctuation.
+. is period
+: is comma
+three dots indicates any further division
+Use them logically, they also function as brackets
+
+DANETISKA
+abbasto (v): to walk along, to follow
+abbomo (v): to affirm
+abōl (m): fruit
+abolφeros (adj): fruit-bearing, pomiferous
+aggerφo (v): to write, to inscribe
+addenomi (v): to appear
+addīksomi (v): to point at
+adīēr (m): traveller
+adīo (v): to travel
+ado (v): to lead
+adros (m): field
+adūkomi (v): to confess, to admit
+ajatos (adj): metallic
+ajgīa (f): sickness, illness
+ajgos (adj): sick, ill
+ajos (n): metal
+ajtomi (v): to possess, to own, to have
+ajtos (n): spear, pike
+ajttos (adj): possession, property
+akkapjo (v): to grasp, to hold
+akxeφo (v): to accept, to take
+allekjo (v): to place, to collocate
+allekso (v): to protect, to defend
+allenxetom (n): swing, pendulum
+allenxo (v): to hang (transitive)
+allūko (v): to shine, to illuminate
+alo (v): to nourish, to feed
+alutu (n): beer
+alφos (adj): white
+ammōn (m): stone
+ammonatos (adj): stony, hard
+amφatos (adj): slithering
+amφis (f): snake
+amφros (m): rain
+an (n): air
+anatis (f): duck
+anemos (m): breath
+anθus (adj): narrow, tight
+anjos (adj): old
+ankatos (adj): sharp, cutting
+ankos (n): angle
+annos (m): lamb
+anomi (v): to breathe
+antān (m): ancestor, predecessor, forefather
+anteletis (f): uncovering, discovery, finding, revelation, apocalypse
+antelo (v): to uncover, to discover, to find, to reveal
+antis (f): breath
+antjos (m): front, forehead
+antūktēr (m): prophet
+apos (adj): liquid
+aposwepomi (v): to send away, discharge, dismiss, release, let go, throw away, discard, get rid of, shred, give up
+apotelo (v): to open
+appretīpo (v): to face (direction)
+apsis (f): axe
+apφenomi (v): to strike, to hit, to beat, to stab, to hurt
+apφentis (f): wound
+apφero (v): to bring forth, to carry forth
+apφlomo (v): to grow plants, to cause a plant to grow
+apφūjo (v): to cause to grow
+aris (f): nut
+arkaros (m): lock, safe, castle, fortified building, fort
+arkomi (v): to lock
+aro (v): to plough
+arotrom (n): instrument for ploughing
+arpu (n): bow and arrow, arc, bow
+arrūpomi (v): to break, to hit, to strike
+arrūptos (adj): broken
+artiskos (adj): northern, related to bears
+artos (m): bear
+arxeman (n): beginning, start
+arxo (v): to begin
+asgēn (m): breast, teat
+askando (v): to leap
+askapos (n): tool
+askeljo (v): to owe, to must, to ought
+askīdomi (v): to cut
+askorpiōn (m): scorpion
+asmeka (f): chin
+asmeru (n): grease
+asmīo (v): to laugh
+asneo (v): to laugh
+asnīφos (m): snow
+asnomi (v): to swim
+asnūan (n): sinew, tendon
+asnūθos (n): mist
+asnusa (f): daughter-in-law
+aspekjertis (f): appearance
+aspekjo (v): to look at, to regard
+aspergos (m): sparrow
+aspēs (f): prosperity, luck
+asplenθos (n): spleen
+aspotus (m): lord, master, sir
+aspūo (v): to spit
+astao (v): to stand
+astego (v): to cover
+astēr (m): star
+asteφo (v): to stiffen
+astis (f): essence, being
+astīgo (v): to puncture, to pierce
+astīxo (v): to climb
+astrenxo (v): to twine
+astreφo (v): to gulp, to swallow
+astroφo (v): to sip, to suck
+astrūo (v): to flow
+astūo (v): to hit
+atθeman (n): attempt
+atθo (v): to try, to attempt
+atus (adj): sharp
+attenomi (v): to attain, to reach, to reach over, to reach for
+atθutomi (v): to call
+awa (f): grandmother
+awgo (v): to enlarge
+awgomi (v): to glance
+awis (f): bird
+awomi (v): to help
+awos (m): grandfather
+awsōs (f): dawn, morning
+axos (n): distress, fear
+bao (v): come
+baθetos (adj): sunken
+baθo (v): to sink
+bakom (n): staff
+bastēr (m): walker, traveller
+bastīo (v): to cause to walk
+basto (v): to walk
+belisos (adj): stronger, more powerful, comparative of belos
+belos (adj): powerful, strong
+belφa (f): womb
+bena (f): woman
+benomi (v): to step, to take a step
+bentom (n): floor, ground
+bero (v): to praise
+beru (n): spear
+bīwo (v): to live
+bīwos (m): life
+bīwos (adj): alive, living
+blūomi (v): to call
+bomastao (v): to stand firmly
+bomos (adj): strong, firm, steady
+breθus (adj): short, brief
+bruθomi (v): to bite
+brus (adj): heavy
+būo (v): to kiss
+bus (m): cattle
+galo (v): to call out
+galus (adj): naked
+gangomi (v): to mock
+gelos (adj): cold
+geris (f): crane (bird)
+gerφetos (adj): written, writing, letter
+gerφo (v): to write
+glaga (f): milk
+glexo (v): divertir, to amuse
+groφos (m): crab
+dajawēr (m): brother-in-law
+dajmos (m): time, tense (grammatical)
+dalexos (adj): long
+danθwa (f): tongue
+danomi (v): to be acquainted with, conocer
+danosto (v): to recognize
+danu (n): river
+datru (n): tear in the eye
+datrūo (v): to cry, to shed tears
+dejom (n): book, scroll, codex
+deksis (f): right (direction)
+demetos (adj): tamed, domesticated
+demo (v): to tame, domesticate
+denomi (v): to beget, to produce, to give birth
+denos (n): race, lineage, type, kind
+dentis (f): genesis, birth, creation, production
+denus (m): cheek
+deo (v): to bind
+despotus (m): master of the house
+detos (adj): good, beautiful, lovely, morally good, of good quality, proper
+dētos (adj): bound together
+deφa (f): jaw
+dīn (m): day
+dīksa (f): justice
+dīksjo (v): to judge
+dīksjotēr (m): judge, one who judges
+dīksomi (v): to point out
+dīwos (m): god
+djus (m): sky, heaven
+do (v): to give
+dōm (m): household, house
+domφos (m): number
+dono (v): to give
+donom (n): gift
+donos (m): offspring
+dontus (m): tooth
+donu (n): knee
+doru (n): wood, tree
+dranom (n): grain
+drao (v): to run
+dremo (v): to sleep
+dūko (v): to lead
+dūos (adj): beautiful
+dūs (f): forearm
+dusis (f): failure
+dūstus (m): taste
+dwibrus (m): balance, scale, libra
+dwikos (adj): twin, pair
+dwojomi (v): to fear
+dwojtos (adj): feared
+edomi (v): to eat
+eθus (adj): sharp
+ellūkīo (v): to illuminate
+ellekjo (v): to put in, to insert
+ellūkos (adj): enlightened (mind), wise
+ellūφos (adj): sweet, caring, loving
+embasto (v): to walk in, to enter
+embīwos (adj): alive, living
+embos (n): gland
+emplūtos (adj): valioso, important
+enθūmos (adj): hot
+enkasnos (adj): evil
+enkretos (adj): talented, clever, able
+enkrūos (adj): cold, cool
+enswadīa (f): sugar
+enswennjos (adj): sleepy, tired, fatigued, exhausted
+entīomi (v): to live in, to habitate
+entītis (f): habitation, residence, settlement
+entorpos (adj): happy
+entrūdo (v): to impress (press in)
+enudros (adj): wet, watery, liquid
+enwardjos (adj): energetic, active
+epipertus (adj): close, near
+epiteletos (adj): closed
+epitelo (v): to close
+ēr (m): goat
+esan (n): blood
+ettis (f): food
+etwos (m): horse
+θalomi (v): to blossom
+θāns (f): goose
+θaφīomi (v): to perish, to die
+θaφītos (adj): dead
+θeba (f): fat (grasa)
+θejo (v): to suck
+θelo (v): to shine
+θeo (v): to put
+θēr (m): hedgehog
+θersīa (f): courage
+θersos (adj): courageous
+θēs (m): god, deity
+θetis (f): act, deed, fact
+θetos (adj): made, done, finished
+θeφetos (adj): burnt
+θeφo (v): to burn
+θīθo (v): to mold, to shape, to fashion
+θīōm (f): winter
+θo (v): to do, to make
+θorsos (adj): courageous, valiant
+θortos (m): enclosure
+θrīo (v): to defecate
+θrūxo (v): to trick, to deceive
+θubros (adj): deep
+θugatēr (f): daughter
+θūlo (v): to pour
+θūmatos (adj): foggy, smoky, unclear
+θūmos (m): smoke
+θūo (v): to run
+θutomi (v): to invoke
+θūxomi (v): to work
+θwerjos (adj): wild
+θweropeplos (m): wheel of the animals, zodiac, wheel of the zodiac
+θweros (m): wild animal, beast, animal
+θweso (v): to breathe
+θwōr (m): door
+īomi (v): to go
+isus (m): arrow
+jadīo (v): to make holy
+jados (adj): holy, saint
+jedos (n): ice
+jepan (n): liver
+jēr (m): year
+jesomi (v): to boil
+jestos (adj): boiled
+jeφo (v): to copulate, to fuck
+jugom (n): yoke
+jugomi (v): to join, to tie together
+jugos (n): team
+jūenīa (f): youth
+jūenus (adj): young
+kajkos (adj): blind
+kakka (f): excrement, poop, dung
+kalos (adj): handsome
+kanīa (f): song
+kano (v): to sing
+kantis (f): corner
+kapjo (v): to grasp, to capture, to understand
+kapros (m): goat
+kapu (n): head
+kasnos (adj): black, dark, dusky, obscure
+kāt (m): puppy, cub
+kedom (n): smoke
+kelatos (adj): sticky
+kela (f): glue
+kenga (f): hook
+kenkom (n): kneecap
+kerpo (v): to pluck
+klena (f): maple
+klepetos (adj): stolen
+klepo (v): to steal
+klīo (v): to lean
+klūetos (adj): clean, cleaned
+klūnis (f): buttocks, hip, gluteus
+klūo (v): to clean
+klūomi (v): to hear, to listen
+kobis (f): success
+kobjos (adj): successful
+kotus (m): fight
+kremom (n): onion
+kretos (adj): intelligent, insightful, clever
+krīomi (v): to separate
+krūos (adj): raw
+lāks (m): salmon
+lamφros (adj): lightweight
+lasus (adj): eager
+latos (n): swamp
+lawetos (adj): washed, clean, cleaned
+lawo (v): to wash
+lawomi (v): to acquire
+lebis (f): lip
+lekjo (v): to lay down, to put, to place
+lekjos (m): place
+lekso (v): to protect
+lenθos (n): kidney
+lenos (adj): slow
+lenxo (v): to float
+leōn (m): lion
+līgomi (v): to jump
+līdomi (v): to bind
+līθomi (v): to lick
+līmōn (m): lake
+linemos (adj): dirty
+linepomi (v): to leave
+linos (n): flax, linen, cloak, cloth
+līpetos (adj): moistened, moist
+līpo (v): to moisten
+līsos (adj): straight
+līttos (adj): bound together
+lokus (m): lake
+lūdo (v): to break
+lūθa (f): person
+luθomi (v): to arrive
+lūkīeman (n): illumination, lights
+lūkīo (v): to illuminate
+lūkos (m): light
+lūttos (adj): broken
+lūφetos (adj): loved, beloved
+lūφo (v): to love
+lūxetis (f): lie, falsehood, false claim
+luxetjos (adj): false, incorrect
+lūxo (v): to lie, to tell a lie, to speak falsely
+makos (n): pouch
+mānis (f): moon
+manu (n): human, person, mankind, humanity
+maran (n): hand
+matēr (f): mother
+medisos (adj): bigger, greater
+medomi (v): to consider
+medus (adj): big, great
+meθjos (m): middle
+meldomi (v): to milk
+melθos (m): lightning
+melitatos (adj): viscous
+melitu (n): honey
+menθo (v): to learn
+menomi (v): to think
+mentis (f): thought
+mēns (m): month
+mensos (n): meat
+meromi (v): to die
+mertis (f): death
+mertos (adj): dead
+mesgomi (v): to sink
+mīθetis (f): urine
+mīθo (v): to urinate
+mīktis (f): a blink, blink of an eye, moment, instant
+mīos (adj): small
+mīsos (adj): smaller
+mīxomi (v): to blink
+moktis (f): power, ability
+mōn (m): neck
+moru (n): sea
+mosxos (m): brain
+moxīa (f): power, ability
+moxomi (v): to be able, poder
+moxos (adj): able, powerful
+mūkos (adj): mute, dumb, foreign, barbarian, unclear, unintelligible
+mūs (m): mouse
+nasis (f): nose
+naspekjentos (adj): unseen, invisible
+nawis (f): boat, ship
+neθetos (adj): unfinished, undone, not finished, not done
+nejados (adj): not holy, cursed
+nemos (n): sacrifice
+nepōtis (f): granddaughter
+nepōtus (m): grandson
+nēr (m): power, force, vital energy
+nerūptos (adj): unbroken, unbreakable
+nessūnjos (adj): childless
+netomi (v): to attain, to reach
+netus (adj): dead
+neφatos (adj): cloudy, misty, foggy, unclear
+neφos (n): cloud
+neφros (m): kidney
+neφummenjos (adj): bottomless, without bound, boundless, unfathomable, abyss, abysmal
+nexa (f): fingernail
+nisdos (m): nest
+noman (n): name
+noptis (f): night
+noφilos (m): navel
+numan (n): breath, soul, spirit
+nūos (adj): new
+ojnomi (v): to join together, to join, to unite
+ojntos (adj): joined, united
+oju (n): lifetime
+olos (n): elbow
+ombāl (m): charcoal
+omban (n): butter, fat
+ombanatos (adj): buttery, greasy, oily, fatty
+ombetos (adj): annointed
+ombo (v): to anoint
+omos (adj): bitter
+onkatos (adj): bent, not straight
+onkos (m): bend, turn
+onos (n): load, burden
+ōpis (f): eye
+orōn (m): eagle
+orφos (m): orphan, servant, slave
+osdos (m): branch
+ōs (f): mouth
+ostu (n): bone
+otratos (adj): sharp, acute
+otris (f): corner
+owis (f): sheep, ram, ewe
+ōwos (n): ear
+pakko (v): to duck
+pao (v): to protect, to look after, to care for, to win over in marriage, to date, to court, to propose
+pasomi (v): to cough
+pastīa (f): question
+pasto (v): to interrogate, to question
+pastro (v): to sneeze
+patēr (m): father
+pawan (n): fire
+pawanatos (adj): fiery, burning
+pedomi (v): to tread
+pegan (n): breast
+pela (f): skin
+pelatos (adj): floury, dusty
+pelis (f): flour
+pentos (m): road
+peplatos (adj): circular, round
+peplos (m): wheel, circle
+peraskīdomi (v): to pierce, to cut through
+perbasto (v): to walk through, to penetrate
+perdomi (v): to fart
+perθetos (adj): finished
+perθo (v): to finish
+permenomi (v): to think through, to brainstorm, to think intensely
+perpontōm (m): transcurso, time
+perreφomi (v): to equip, to furnish, to arrange, to prepare
+persatos (adj): dusty, dirty
+persom (n): dust
+perta (f): rib
+perūkomi (v): to announce, to send a message, to report
+perūktēr (m): messenger, reporter, announcer
+perūktis (f): message, report, announcement, letter
+pesus (m): penis
+petan (n): feather
+peto (v): to take away
+petomi (v): to fly
+petos (adj): cooked
+petu (n): livestock
+pīdos (adj): inactive, reluctant, lazy
+piman (n): peace, tranquility, rest
+pīo (v): to pay
+pipetis (f): drink, refreshment
+pipo (v): to drink
+pisda (f): vulva
+pistis (f): fish
+pjeīa (f): quietness, silence
+pjeos (adj): quiet
+plako (v): to punch, to strike, to hit
+plenos (adj): full
+pletus (adj): flat, broad
+plōtus (m): flood
+plūmōn (m): lung
+plusis (f): flea
+plūtos (adj): rich
+po (v): to cook
+podis (f): foot
+pontōm (m): track, path, road, way
+portos (m): pig
+potīa (f): mastery
+potus (m): master
+prepos (n): body
+pretīpos (m): face
+pretis (f): prayer
+preto (v): to pray, to ask
+prinomi (v): to buy
+prīomi (v): to like
+prīa (f): happiness
+prīos (adj): happy
+prūkomi (v): to preach, proclaim, declare, announce
+prūktēr (adj): proclaimer, preacher, declarer, announcer
+prūo (v): to jump
+prūsetos (adj): frozen
+prūso (v): to freeze
+pūdis (f): pain
+pūdjos (adj): painful
+pula (f): hair
+rādis (f): root
+rapa (f): turnip
+rebīa (f): darkness
+rebos (adj): dark
+redīa (f): kingdom
+redjo (v): to rule
+rēdus (m): king, ruler
+repomi (v): to snatch
+reptom (n): building, edifice
+reφomi (v): to build, to construct, to erect
+rodīa (f): law
+rodīredus (m): judge
+rodos (adj): straight, correct, appropriate, true
+roduktīa (f): grammar
+ros (adj): sharp
+rūgomi (v): to vomit
+ruθros (adj): red
+rūktom (n): vomit
+rūpomi (v): to break
+rūptos (adj): broken
+sagjeman (n): sign, mark, letter, symbol
+sagjo (v): to give a sign
+sagomi (v): to seek, to search
+sāl (m): salt
+sālatos (adj): salty
+sawsīa (f): thirst, dryness
+sawsos (adj): dry
+sedomi (v): to sit
+sellekjo (v): to put together, to assemble, to build
+selpa (f): butter
+selpatos (adj): buttery, oily, greasy
+sema (f): summer
+semado (v): to conduct, to lead
+seman (n): seed
+sembasto (v): to walk together, to march
+sembomo (v): to confirm
+semjugomi (v): to unite, to join together
+semjuktis (f): union
+semjuktos (adj): united, joined
+semφeθjo (v): to compete
+semφero (v): to bring together, to cause to congregate
+semφertis (f): congregation
+semφettis (f): competition
+sendo (v): to surrender, to give something up
+senkotwo (v): to fight, to dispute
+senkotus (m): fight, dispute
+senos (adj): old
+sentis (f): feeling
+sentomi (v): to feel (in both emotional and perceptory senses)
+sentrūdo (v): to compress
+seo (v): to sow
+sepomi (v): to follow
+serpo (v): to creep, crawl, move slowly, slink
+sexomi (v): to hold
+sīo (v): to sift
+sisdo (v): to sit down (transitive)
+sjūo (v): to sew
+soman (n): being, essence
+somi (v): to be
+somos (adj): same, alike
+somūkomi (v): to say the same thing as, to agree with, to be in accordance with
+sosteo (v): to need
+sostjos (v): necessary, needed, essential, fundamental
+sotan (n): dung, excrement
+sowan (n): sun
+sūnus (m): son
+suros (adj): sour
+swadīa (f): sweetness
+swadus (adj): sweet
+swelomi (v): to burn
+swemīa (f): loneliness, solitude
+swemīntos (adj): desolating
+swemīo (v): to cause to be alone, to desolate
+swemjos (adj): alone
+swennos (m): sleep, slumber
+swepo (v): to sleep
+swepomi (v): to throw, send away, send
+swerxos (adj): ill, sick
+swesōr (f): sister
+swetura (f): mother-in-law
+sweturos (m): father-in-law
+swīdomi (v): to sweat
+swīo (v): to whistle
+swomīa (f): freedom, liberty
+swomos (adj): free, libre
+tadetos (adj): hated
+tado (v): to hate
+tadomi (v): to fall
+tago (v): to touch
+tarketos (adj): twisted
+tarko (v): to twist
+tarnos (adj): sharp
+tasus (adj): grey
+tatis (f): battle, war
+tawetos (adj): molten
+tawo (v): to melt
+tawros (m): bull, bison
+tegus (adj): thick
+teletīa (f): hideout, escondite
+teletis (f): secret
+telīa (f): warmth
+telo (v): to cover, to hide
+telus (adj): warm
+tengomi (v): to think
+tenktis (f): thought
+tenomi (v): to extend
+tenus (adj): thin
+tepos (n): heat, warmth
+terman (n): boundary, end
+ternatos (adj): sharp
+ternokapros (m): horned goat
+ternom (n): horn
+tero (v): to cross over
+tersīa (f): thirst
+tersus (adj): thirsty
+tēru (n): heart
+terus (adj): sterile
+tīno (v): to lie, to settle
+tīomi (v): to settle, to populate, to dwell
+tolomi (v): to hold up, to lift
+tona (f): shell
+tonos (m): string, chord, fiber
+torpos (adj): satisfied, pleased
+torsos (adj): dry
+traomi (v): to mix
+traso (v): to run
+trebom (n): dwelling
+tremo (v): to tremble, to shake
+tristus (adj): in a bad mood
+trūdo (v): to press
+tūsjo (v): to spy
+tūta (f): tribe, people
+tuφom (n): shoulder
+twenos (adj): holy
+twōn (m): dog
+ubbastīa (f): exodus, walking out, exit, leaving
+ubbasto (v): to walk out, to exit, leave
+udros (adj): wet
+udroφeros (m): water bearer
+udwōpo (v): to shout, to yell, to cry out
+ūjom (n): egg
+ūkomi (v): to say
+uksēn (m): ox
+ūktis (f): speech, phrase, saying, proverb, maxim
+ummenomi (v): to forget
+ūomi (v): to dress
+uperallenxo (v): to hang (transitive)
+upertolomi (v): to sustain, to hold over, to support
+upertoltis (f): a sustain, a support
+uperūkomi (v): to yell, to scream
+uperφūjo (v): to grow up, to rise
+upūkomi (v): to whisper
+upūktos (adj): whispered, secret
+ūsomi (v): to burn
+ūstos (adj): burnt
+waθomi (v): to go
+walena (f): wool
+walīa (f): hunger
+waljos (adj): hungry
+walpos (m): wolf
+wapos (adj): bad, evil
+wardjentos (adj): working, diligent, hardworking, hard working
+wardjo (v): to work
+warmis (f): worm
+watomi (v): to blow
+wattis (f): journey
+wedos (adj): wet
+weθo (v): to transport
+weleo (v): to wish, to want, to desire
+welētis (f): wish, desire, will
+weo (v): to blow
+wepo (v): to speak
+werdom (n): work
+werθom (n): word
+weros (adj): true
+werus (adj): broad
+wesgeros (m): sunset, evening
+wesomi (v): to wear
+westis (f): clothing, vestimenta
+wetos (n): season
+weφetos (adj): woven
+weφo (v): to weave
+weφomi (v): to praise
+wīdīa (f): wisdom
+wīdomi (v): to know, saber
+wīdos (adj): wise
+wiθwa (f): widow
+wīkomi (v): to be victorious over, vencer
+wīktos (adj): beaten, loser of the battle
+wīmos (adj): twisty
+winθa (f): elm
+wīnom (n): wine
+wiros (m): man
+wīsomi (v): to sprout
+wīspotus (m): village chief, landlord, lord
+wisūkomi (v): to retell, to tell a story, to narrate
+wisūktis (f): narration, story, history
+wītis (f): village
+wītos (adj): bright
+wītso (v): to see
+wīttis (f): wisdom, knowledge
+witwodinjos (adj): daily
+wodan (n): water
+wams (f): wind
+wōpis (f): voice
+wōpo (v): to call, to name (+instrumental)
+wōr (m): raven
+wortomi (v): to turn (transitive)
+wosan (n): spring (season)
+φagetis (f): division, army division, section
+φagetos (adj): divided
+φago (v): to divide
+φadis (f): beech
+φados (adj): good
+φaθa (f): leg
+φao (v): to shine
+φāp (f): bean
+φarθa (f): beard
+φarīa (f): heat, warmth
+φaros (adj): warm, hot
+φarsis (f): barley
+φegos (m): bread
+φeθjo (v): to request, to ask for
+φeθomi (v): to dig
+φelos (adj): bright
+φenθus (adj): thick
+φenomi (v): to strike down, to kill, to slay
+φentos (adj): murdered, killed
+φerθo (v): to protect
+φerθontus (adj): high, tall
+φerjos (adj): hot, warm
+φero (v): to carry
+φeφrus (m): beaver
+φīa (f): bee
+φīdomi (v): to split, to separate
+φīθetos (adj): trusted
+φīθo (v): to trust, to be confident in
+φīttos (adj): separated, split
+φleo (v): to cry
+φlīdeman (n): lights
+φlīdo (v): to be shining
+φlomo (v): to flower, to blossom
+φlotatos (adj): flowery, colorful
+φlotos (m): flower
+φogetos (adj): baked, roasted
+φogo (v): to bake, roast
+φōr (m): thief
+φoratos (adj): thievous
+φratēr (m): brother
+φrūan (n): well, spring, source, fountain
+φrūis (f): eyebrow
+φugo (v): to escape
+φūdo (v): to hit, to strike
+φūθos (adj): awake, aware
+φūjo (v): to grow
+φummēn (m): bottom
+φūomi (v): to become
+φūxetos (adj): bent
+φūxo (v): to bend
+xajdos (m): young goat
+xedo (v): to find, to hold
+xeθōm (m): earth
+xelo (v): to call
+xeφo (v): to take
+xlūo (v): to joke
+xrenθom (n): beam (structure)
+xreman (n): herb, plant
+xreo (v): to grow (of plants)
+xostiskos (adj): foreign
+xostus (m): stranger
+
+
+
+galōs: brother's wife
+jenatra: broinlaw's wife
+
+omesos: shoulder
+armis: arm
+dūsu: forearm
+menu: hand
+onoxos: nail
+awθār: udder
+pertu: rib
+pogu: lap
+pesu: penis
+orθom: testicle
+orsu: arse
+kroska: leg
+kenku: knee kap
+pesna: heel
+
+nau: corpse
+netros: dead person, dead
+pelis: skin
+ostom: bone
+mosgos: brain
+φeleθa: gland
+rūsman: throat
+asplenθa: spleen
+lenθa: kidney
+
+θerna: bowels
+otēr: intestine
+
+
+
+
+tadomi: hate
+dūsomi: taste
+θersa: horror
+xūros: fear
+swepomi: sleep
+agos: fault, sin
+ajmos: copy, image
+ajwa: vital force
+menos: mind
+
+
+telpa: space
+lūkos: light
+perka: lightning, strike
+
+
+jēr: year
+wetos: year
+wesan: spring
+semār: summer
+osan: autumn
+θīna: winter
+
+
+teweros: northwind
+gradis: hail
+jedom: ice
+asnūθos: mist
+tonār: thunder
+
+ajtis: part
+solos: whole
+bera: mount
+lenθa: steppe
+latu: swamp
+aθeros: ocean
+apos: river
+pojnos: foam
+
+
+embis: fire
+parsu: dust
+θerxan: thorn
+θastom: stick
+betu: resin
+osdos: branch
+kela: glue
+
+ajtu: oak
+apsa: aspen
+aran: nut
+φagom: beech
+φeredom: birch
+θelna: pine
+talan: reed
+termus: cherry
+klena: maple
+kojna: grass
+koslos: hazel
+kremom: onion
+morom: blackberru
+ogu: berry
+olom: alder
+rapa: turnip
+winθom: elm
+
+morwis: ant
+φīa: bee
+wopsa: wasp
+mua: fly
+lua: louse
+parmis: grub
+
+pistis: fish
+laksos: salmon
+ambis: eel
+tona: shell
+
+torom: krow
+woran: raven
+trosdos: thrush
+anetis: duck
+tetēr: grouse
+asperφa: sparrow
+gēr: crane
+nisdos: nest
+
+enθis: hedgehog
+eperos: boar
+xelu: tortoise
+lūks: lynks
+netār: snake
+ūr: squirrel
+wāl: fox
+twōn: dog
+abos: lamb
+
+ūjom: egg
+meθu: mead
+glagis: milk
+selpos: butter
+ternos: horn
+kār: wax
+rūman: cream
+
+pelis: flour
+φaris: spelt
+pūr: wheat
+ruxjos: rye
+xesθa: barley
+awida: oat
+φaφa: bean
+tikēr: pea
+adis: cereal
+
+ajtu: spear, spike
+bakos: staff
+beru: millstone
+kega: hook
+māk: pouch
+nawis: ship
+askāp: tool
+jugom: yoke
+
+ankos: angle
+φerθom: fort
+φru: bridge
+xrenθa: beam
+kantis: corner
+penta: road
+treba: dwelling
+lūθis: people
+jewis: law
+petu: wealth, cattle
+misθos: fee
+wesnos: price
+tatom: battle
+korom: war
+wīk: victory
+belos: power, strength
+
+
+abōl, ables (m): apple
+adona (v): to drive, to guide, to lead
+adros, adrosjo (m): field, pasturage
+ajos, ajesos (n): a metal, copper, bronze
+alona (v): to nourish, to feed
+ammōn, ammones (m): stone
+amφis, amφīs (m): snake
+anats, anates (f): duck
+anemos, anemosjo (m): breath
+anesa (v): to breathe
+annos, annosjo (f): lamb
+antjos, antjosjo (m): forehead, front
+apa, apas (f): water, rain
+arjona (v): to plough
+arotrom, arotrosjo (n): plough, ard
+artos, artosjo (m): bear
+awos, awosjo (m): grandfather
+awsōs, awsoses (f): dawn
+axos, axesos (n): emotional distress, fear
+
+bastona (v): to walk
+bena, benas (f): woman
+bentis, bentīs (f): step, the act of walking
+beru, brūs (n): spear
+bīwona (v): to live, to be alive
+blūsa (v): to say
+bus, bowes (f): cattle
+
+dajawēr, dajawres (m): brother-in-law
+danθwa, danθwas (f): tongue
+danostona (v): to recognize, conocer, to be acquainted with
+danu, dānūs (n): river
+daranom, daranosjo (n): grain
+deneman, danemens (n): offspring, seed
+denetis, denetīs (f): birth, production
+denetōr, denetres (m): one who begets, produces, parent
+denos, denesos (n): race, lineage
+denus, danwes (f): jaw, cheek, chin
+detos, detesos (n): that which is proper
+dītsata, dītsants, dītata, ditonts (v): to point out, to say
+djus, diwes (m): sky, heaven
+dōm, demes (m): house
+domφos, domφosjo (m): tooth, row of teeth, peg
+donom, donosjo (n): gift
+donos, donosjo (m): birth, offspring
+donts, dantes (m): tooth
+donu, nūs (n): knee
+doru, drūs (n): tree, wood
+dosa (v): to give
+dotis, dotīs (f): the act of giving
+dotōr, dotres (m): giver
+dūstus, dustwes (m): taste
+
+edata, adonts (v): to eat
+esan, sans (n): flowing blood
+esata, sonts, φūata, φwonts (v): to be
+etwos, etwosjo (m): stallion, horse
+
+θans, θanses (f): goose
+θeθōm, mes (m): earth
+θeman, θemens (n): that which is established, house, home
+θēr, θres (m): hedgehog
+θes, θeses (m): god, godhead, deity, sacred place
+θesa (v): to put, place, to do
+θetis, θetīs (f): the act of putting, placement
+θīōm, θimes (f): winter
+θomos, θomosjo (m): that which is put, placed
+θortos, θortosjo (m): enclosure
+θugatēr, θugatres (f): daughter
+θūmata, θuxonts (v): to be productive
+θūmos, θūmosjo (m): smoke
+θwōr, θwores (m): door
+
+īata, jonts, linepata, limponts (v): to go
+
+jepan, ipens (n): liver
+jeφona (v): to fuck, to copulate
+jūanta, jūantas (f): youth
+jugom, jugosjo (n): yoke
+jūgos, jūgesos (n): team, pair of yoked animals
+jugata, jugonts, junegata, jungonts (v): to bring together, to join
+
+kapjona (v): to grasp, to understand, to comprehend
+kapros, kaprosjo (m): he-goat, billy goat
+klūata, talwonts, talnūata, klawonts (v): to listen, to hear
+klūnis, klūnīs (f): buttocks, hips
+klūos, klūesos (n): fame
+kotus, kotwes (m): fight
+krūan, krūns (n): dead blood
+
+leksona (v): to protect
+lexjona (v): to lie down (intransitive)
+līθata, liθonts (v): to lick
+līmōn, līmones (m): lake
+linesa (v): to smear
+līsa, līsas (f): following, track, furrow
+lokus, alkwes (m): lake
+
+matēr, matres (f): mother
+melit, blites (n): honey
+menos, menesos (n): mind, thought
+mēns, menses (f): moon
+mēns, menses (n): meat
+mentis, mentīs (f): thought
+mertis, mertīs (f): death
+mīθona (v): to urinate
+mōn, mones (m): earthling
+mor, bres (n): sea
+mosxos, mosxosjo (m): marrow, brain
+mūs, muses (f): mouse
+
+nemos, nemesos (n): sacrifice, worship, place of sacrifice, cleaning
+nepōts, antes (m): grandson, descendant
+nēr, neres (m): power, force, vital energy
+neφos, neφesos (n): cloud, mist, moisture
+neφros, neφrosjo (m): kidney
+nisdos, nisdosjo (m): nest
+noman, nemans (n): name
+nesa, danents (v): to meet
+nots, noptes (f): night
+noφilos, noφilosjo (f): navel
+nūasa (v): to renew
+nūman, numens (n): breath
+nūotats, nūotates (f): newness
+nus, nawes (f): ship, boat
+
+oju, jūs (n): lifetime, long age, eon, saeculum, siglo, century, aeon, period of time, era
+omban, ombens (n): fat, butter
+onkos, onkosjo (m): bend, turn
+onos, onesos (n): load, burden
+orōn, orones (m): eagle
+orφos, orφosjo (m): orphan, slave, worker, servant
+ōs, ōses (n): mouth
+osdos, osdosjo (m): branch
+ost, astes (n): bone
+otris, otrīs (f): top, protrusion, sharp edge, corner
+owis, owīs (f): sheep
+
+parstona (v): to ask, to question
+patēr, patres (m): father
+pawan, pawens (n): bonfire
+peplos, peplosjo (m): wheel, circle
+pertus, partwes (m): crossing
+petan, tans (n): wing, feather
+petu, petūs (n): livestock
+pipona (v): to drink
+pisda, pisdas (f): vulva
+pletos, pletesos (n): breadth
+plūmōn, plūmones (m): lung
+pona (v): to cook
+pontōm, pantes (m): path, way
+portos, portosjo (m): piglet
+pōts, pedes (m): foot
+prinasa (v): to buy
+
+rats, warades (f): root
+rebesjona (v): to be getting dark
+rebos, rebesos (n): darkness
+redona (v): to govern, to rule
+rēts, redes (m): king, ruler
+rodīona (v): to straighten, to cause to be straight, to make straight
+ruθesa (v): to be red
+rūpata, ruponts, runepata, rumponts (v): to break
+
+sagjona (v): to give a sign, to signal
+sgēn, sgenes (m): breast, teat
+seman, semens (n): seed
+sisdona (v): to sit down
+skīdata, skidonts, skinedata, skindonts (v): to cut, to cut off
+snasa, sanonts (v): to swim
+snasa, stanonts (v): to stand up
+snīφos, snīφosjo (m): snow
+snūan, sanūens (n): sinew, tendon
+snusos, snusosjo (f): daughter-in-law
+sodīona (v): to set, to cause to sit, to seat, to place, to put
+sotan, stens (n): dung, excrement
+sowan, sawens (n): sun
+spekjona (v): to look at, to regard
+spēs, spes (f): prosperity, success
+spets, stes (m): watcher, spy
+staman, stamens (n): that which stands, also stature
+statis, statīs (f): standing, position
+stēr, stres (m): star
+stīxona (v): to climb, to walk
+stroφjona (v): to sip, to suck
+swennos, swennosjo (m): sleep, slumber
+swesōr, swesores (f): sister
+sweturos, sweturosjo (m): father-in-law
+
+tawros, tawrosjo (m): wild bull, aurochs
+telata, talonts, talnata, talnonts (v): to lift, raise
+telona (v): to hide, cover
+tenos, tenesos (n): extension
+tentis, tentīs (f): extension
+tepos, tepesos (n): heat, warmth
+tēr, tardes (n): heart
+terman, tarmens (n): boundary, end
+tīsa, jonts (v): to settle, to populate, to dwell, to cultivate, to habitate, to reside
+tonīona (v): to extend, to stretch
+tonos, tonosjo (m): something stretched, chord, string, fiber
+torsīona (v): to cause to dry, to make dry
+tūsjona (v): to be sharp-eared, to hear well, to eavesdrop, to spy
+tūta, tūtas (f): people, tribe
+twōn, twones (m): dog
+
+ūjom, ūjosjo (n): egg
+uksēn, uksenes (m): bull
+
+walena, walenas (f): wool
+walpos, walposjo (m): wolf
+wardjona (v): to work
+weθona (v): to transport, llevar
+werdom, werdosjo (n): work
+werθom, werθosjo (n): word
+werjona (v): to say
+wesa (v): to blow (of wind)
+wesgeros, wesgerosjo (m): evening
+westis, westīs (f): the act of dressing, clothing
+wetos, wetesos (n): year, season
+wiθūa, wiθūas (f): widow
+wīman, ūjmens (n): that which is twisted, plaiting
+wīnom, wīnosjo (n): wine
+wiros, wirosjo (m): man
+wītis, wītīs (f): that which twines or bends, branch, switch
+wīts, wites (m): village, household
+wītsona, wītsonts, wewītsona, wewītsonts (v): to want to see
+wīttōr, wīttres (m): one who has seen, knows
+wodan, wedans (n): water
+wōps, wopes (f): voice, speech
+wortīona (v): to turn (transitive)
+wosan, wesans (n): spring (the season)
+wosīona (v): to clothe (transitive)
+
+φados, φadosjo (f): beech
+φarθa, φarθas (f): beart
+φeθjona (v): to ask for, to request, pedir
+φenata, namponts (v): to kill, to strike down, to slay
+φentis, φentīs (f): striking, killing
+φerona (v): to carry
+φeros, φeresos (n): heat, warm weather
+φertis, φertīs (f): the act of carrying, bearing
+φīdata, φidonts, φinedata, φindonts (v): to split
+φīθona (v): to trust
+φorīona (v): to heat
+φratēr, φratres (m): brother
+φrūan, φarūens (n): well, spring, source
+φuga, φugas (f): escape, flight
+φudos, φudosjo (m): buck, he-goat
+φūθīona (v): to awake, to arouse, to make aware
+φūθona (v): to be awake, aware
+φujona (v): to grow, to appear
+φummēn, φummenes (m): bottom
+
+xajdos, xajdosjo (m): young goat, kid
+
