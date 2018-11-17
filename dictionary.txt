@@ -732,13 +732,12 @@ wapos (adj): bad, evil
 wardjentos (adj): working, diligent, hardworking, hard working
 wardjo (v): to work
 warmis (f): worm
-watomi (v): to blow
+watomi (v): to fill
 wattis (f): journey
 wedos (adj): wet
 weθo (v): to transport
 weleo (v): to wish, to want, to desire
 welētis (f): wish, desire, will
-weo (v): to blow
 wepo (v): to speak
 werdom (n): work
 werθom (n): word
@@ -916,7 +915,6 @@ misθos (m): fee
 wesnos (m): price
 korom (n): war
 wīk (f): victory
-arjo (v): to plough
 bentis (f): step, the act of walking
 deneman (n): offspring, seed, descendants
 denetis (f): birth, production
@@ -926,3 +924,6 @@ dotōr (m): giver
 klūos (n): fame
 nūomi (v): to renew
 nesomi (v): to meet
+φlena (f): bubble, ball, sphere
+φleo (v): to blow
+weo (v): to cause to swell

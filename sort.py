@@ -23,6 +23,7 @@ def is_valid_word(word, alphabet):
             return False
     return True
 
+
 def is_less_than(word_a, word_b, alphabet):
     is_valid_word(word_a, alphabet)
     is_valid_word(word_b, alphabet)
@@ -31,6 +32,8 @@ def is_less_than(word_a, word_b, alphabet):
     tmp_b = word_b.replace(macron, "")
     len_a = len(tmp_a)
     len_b = len(tmp_b)
+    if len_a != len_b:
+        return False
     n = min(len_a, len_b)
     for i in range(n):
         letter_a = tmp_a[i]
@@ -53,6 +56,7 @@ def is_less_than(word_a, word_b, alphabet):
             n_a = word_a.index(macron)
             n_b = word_b.index(macron)
             return n_a > n_b
+        else: return False
 
 def translate(word, alphabet_a, alphabet_b):
     is_valid_word(word, alphabet_a)
@@ -100,16 +104,25 @@ def get_definition(entry):
     array = entry.split()
     definition = " ".join(array[2:])
     return definition
-
+"""
 def is_list_ordered(array):
-    b = True
+    n = len(array)
+    for i in range(n):
+        for j in range(n):
+            word_i = get_word(array[i])
+            word_j = get_word(array[j])
+            if i < j and is_less_than(word_j, word_i, latin_alphabet):
+                return False
+            if j < i and is_less_than(word_i, word_j, latin_alphabet):
+                return False
+    return True
+"""
+def is_list_ordered(array):
     n = len(array)
     for i in range(n - 1):
-        entry = array[i]
-        next_entry = array[i + 1]
-        word = get_word(entry)
-        next_word = get_word(next_entry)
-        if not is_less_than(word, next_word, latin_alphabet):
+        word = get_word(array[i])
+        next_word = get_word(array[i + 1])
+        if is_less_than(next_word, word, latin_alphabet):
             return False
     return True
 
@@ -124,6 +137,7 @@ def sort(array):
             if not is_less_than(word, next_word, latin_alphabet):
                 array[i + 1] = entry
                 array[i] = next_entry
+                print(entry)
     return array
 
 array = get_dictionary_entries("dictionary.txt")
@@ -144,3 +158,5 @@ for entry in array:
 
 array = get_dictionary_entries("txt")
 array = sort(array)
+print(array)
+print(is_list_ordered(array))
